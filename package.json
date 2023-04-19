@@ -3,18 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/tBrause/simple-app.git"
-  },
-  "bugs": {
-    "url": "https://github.com/tBrause/simple-app/issues"
-  },
-  "homepage": "https://github.com/tBrause/simple-app#readme"
+  "author": "Torsten Brause",
+  "license": "ISC"
 }

@@ -33,6 +33,6 @@ const server = http.createServer(function (request, response) {
 });
 
 // START SERVER
-server.listen(8080, function () {
-  console.log("Server is listening to http://localhost:8080");
+server.listen(3000, function () {
+  console.log("Server is listening to http://localhost:3000");
 });
